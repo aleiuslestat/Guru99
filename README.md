@@ -12,6 +12,6 @@ Verify item in Mobile List page can be sorted by "Name"
 6. Verify all products are sorted by name
 
 
-1)Text "THIS IS DEMO SITE" shown in home page
-2) Title "MOBILE" is shown on mobile list page
-3) All 3 products name sorted by name
+1)Text "THIS IS DEMO SITE" shown in home page.
+2) Title "MOBILE" is shown on mobile list page.
+3) All 3 products name sorted by name.
